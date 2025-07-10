@@ -19,10 +19,10 @@ Out-of-the-box, this functionality is available for:
 In Business Central, on the lines section for these documents, select the line you want to work with and use either of the options available. 
 
 
-![Desktop](img\image.png)
+![Desktop](./img/image.png)
 
 
-![Mobile1](img\image-1.png) ![Mobile2](img\image-2.png)
+![Mobile1](./img/image-1.png) ![Mobile2](./img/image-2.png)
 
 > Note: Take Picture will only be available if a camera is detected by the Business Central client.
 
@@ -40,22 +40,22 @@ Out-of-the-box: available on:
 - Posted Warehouse Shipment
 
 Controls added to Shipment Headers:
-![controls-exist](img\image-3.png)
+![controls-exist](./img/image-3.png)
 
 Click on the No value in the signature field. System will prompt for signature:
-![sign-desktop](img\image-4.png)
+![sign-desktop](./img/image-4.png)
 
-![sign-mobile](img\image-5.png)
+![sign-mobile](./img/image-5.png)
 
 Signature field will now show Yes. Clicking on the Yes value will open a preview to the page, from where you could delete the signature if required.
 
-![updated-controls](img\image-6.png)
+![updated-controls](./img/image-6.png)
 
 For the Posted Sales Shipment, the Customer Signature will reflect on the Certificate of Supply (be sure to select the custom layout at runtime or as your default layout on Report Layouts: 
 
-![request-page](img\image-7.png)
+![request-page](./img/image-7.png)
 
-![cert-of-supply](img\image-8.png)
+![cert-of-supply](./img/image-8.png)
 
 ### 2.1 Extending
 
